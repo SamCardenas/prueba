@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hola mundo! ¿Que tal?
+=======
+Saludos
+>>>>>>> rama1
